@@ -8,7 +8,7 @@ public class Main1
         int P1wins = 0;
         int P2wins = 0;
 
-	System.out.println("Let's Play");
+	
         System.out.println("--Rock-Paper-Scissors--");
         System.out.println("Enter R for rock, P for paper, or S for scissors");
         char P1;
